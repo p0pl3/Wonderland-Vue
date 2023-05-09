@@ -1,4 +1,4 @@
-# toy_store
+# Wonderland
 
 ## Project setup
 ```
